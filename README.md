@@ -1,4 +1,6 @@
 ## About
+
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/12019c76-9c5a-4efc-aa63-d79cb8d13c71.svg)](https://app.soluble.cloud/repos/details/github.com/james-leha/demo-lw-iac-container-scanning)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/e6b18e74-e04a-4b17-9143-221934469ab0.svg)](https://app.soluble.cloud/repos/details/github.com/james-leha/demo-lw-iac-container-scanning)  
 An internal repo to demo Lacework CI workflow implementations leveraging:
 - [The Lacework Inline Scanner](https://docs.lacework.com/integrate-the-lacework-inline-scanner-with-ci-pipelines) in a GitHub Action workflow
 - [Soluble IaC Analysis](https://docs.lacework.com/infrastructure-as-code-security-analysis) with GitHub repository
