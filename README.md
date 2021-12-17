@@ -41,9 +41,9 @@ To walk through a quick deployment of this application, see the Microsoft Tutori
 3. Create a new branch, 
     - modify `voting-service/voting-service/config_file.cfg` to update homepage values
     - modify IaC to introduce violations in folders `terraform` , `manifests` , or `CloudFormation`
-1. Create a PR, utilize review-lab keyword comment - if desired.
-1. Merge PR, observe that **Cleanup PR** and **AKS Staging & Production - Deploy** workflows kick off
-1. View Staging and Production environment deployments
+1. Create a PR from the new branch to the `main` branch
+2. View the IaCBot Check and LW Inline Scanner check
+3. View the GitHub Action workflow run for the LW Inline scanner and view the check failed due to a policy violation
 
 
 # Troubleshooting / Limitations
