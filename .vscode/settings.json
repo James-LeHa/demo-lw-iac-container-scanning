@@ -1,0 +1,18 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./voting-service",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "python.testing.pytestArgs": [
+        "voting-service"
+    ],
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
