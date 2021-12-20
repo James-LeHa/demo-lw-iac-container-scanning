@@ -52,9 +52,3 @@ To walk through a quick deployment of this application, see the Microsoft Tutori
 Currently the `manifests/deployment.yml` file needs to have the `voting-service-front` **image** value updated to match your repository.
 
 # References
-
-## Soluble
-Internal Soluble SE Training Session by @Rob Schoening 
-Please find below the recording to the session:
-- https://lacework.zoom.us/rec/share/qr0upLU1va6oF-59eaclybvS5N22KTRojq8o-WzZ5GnsNj7mQk-7wMGE2zsmOgrM.F59_3f6U7PPMG3AR 
-- Passcode: ?^&Z?96o
